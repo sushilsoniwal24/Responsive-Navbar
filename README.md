@@ -36,8 +36,5 @@ This code snippet is compatible with modern web browsers that support HTML5 and 
 - Microsoft Edge
 - Safari
 
-## License
-This code snippet is released under the [MIT License](LICENSE).
-
 ## Credits
-This code snippet was created by [Sushil Soniwal] and is based on a tutorial by [Tutorial Author]. You can find the original tutorial [here](link-to-tutorial).
+This code snippet was created by [Sushil Soniwal]
