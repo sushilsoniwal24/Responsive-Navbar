@@ -15,7 +15,7 @@ This is a simple example of a responsive navbar using HTML5 and CSS3. The navbar
 ## Getting Started
 To use or modify this code snippet, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/sushilsoniwal24/Responsive-Navbar`
 2. Navigate to the directory where the code is cloned.
 3. Open the `index.html` file in your preferred web browser.
 
